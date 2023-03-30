@@ -1,0 +1,46 @@
+.c1 div {
+    
+    width: 100px;
+    height: 100px;
+    
+    
+}
+.a1 {
+    background-color: #84523c;
+    border-radius: 50%;
+}
+
+
+.c2 div {
+    
+    width: 150px;
+    height: 100px;
+    
+    
+}
+.a2 {
+    background-color: #67bbbb;
+    border-radius: 10%;
+}
+
+.c3 div {
+    
+    width: 200px;
+    height: 100px;
+    border-radius: 10%;
+    
+}
+.a3 {
+background-color: #DA405A;
+}
+
+.c4 div {
+    
+    width: 250px;
+    height: 100px;
+    border-radius: 10%;
+    
+}
+.a4 {
+background-color: #26671c;
+}
